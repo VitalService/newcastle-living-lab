@@ -40,7 +40,7 @@
 		"find-remove": "^2.0.1",
 		"formidable": "^1.2.2",
 		"jimp": "^0.9.5",
-		"jquery": "^2.2.4",
+		"jquery": "^3.5.0",
 		"jsonwebtoken": "^8.5.1",
 		"lodash": "^4.17.15",
 		"nodemailer": "^6.4.11",
